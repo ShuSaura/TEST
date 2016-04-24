@@ -1,0 +1,48 @@
+<html>
+  <head>
+   
+  </head>
+
+  <body>
+    <table>
+      <script>
+        for(var i=-250; i<-90; i+10) {
+          document.write("<tr><td>" + i + "</td><td>" + i*42 + "</td></tr>");
+        }
+      </script>
+    </table>
+  </body>
+
+</html>
+<html>
+  <head>
+   
+  </head>
+
+  <body>
+    <table>
+      <script>
+        for(var i=-250; i<-90; i+10) {
+          document.write("<tr><td>" + i + "</td><td>" + i*42 + "</td></tr>");
+        }
+      </script>
+    </table>
+  </body>
+
+</html>
+<html>
+  <head>
+   
+  </head>
+
+  <body>
+    <table>
+      <script>
+        for(var i=-250; i<-90; i+10) {
+          document.write("<tr><td>" + i + "</td><td>" + i*42 + "</td></tr>");
+        }
+      </script>
+    </table>
+  </body>
+
+</html>
